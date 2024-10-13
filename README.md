@@ -32,11 +32,12 @@ The project is built using the following technologies:
 Follow these steps to set up the project locally:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/employee-appraisal-system.git
+   
+       git clone https://github.com/your-username/employee-appraisal-system.git
 
 2. Navigate to the project folder:
-   cd employee-appraisal-system
+
+       cd employee-appraisal-system
 
 3. Set up the database:
 
@@ -86,13 +87,16 @@ Contributions are welcome and greatly appreciated! If you'd like to contribute, 
    1. Fork the repository to your own GitHub account.
       
    2. Create a new branch with a descriptive name for the feature or bug fix:
-         git checkout -b feature-branch-name
+
+     git checkout -b feature-branch-name
 
    3. Make your changes and commit them with clear, concise messages:
-         git commit -m "Add feature or fix description"
+
+     git commit -m "Add feature or fix description"
    
    4. Push your branch to your forked repository:
-         git push origin feature-branch-name
+ 
+     git push origin feature-branch-name
       
    5. Open a pull request to the main repository's master or main branch, and describe your changes in detail.
 
