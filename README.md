@@ -68,16 +68,16 @@ Follow these steps to set up the project locally:
 
 ## Folder Structure
 
-/employee-appraisal-system
-│
-├── /assets                  # Contains CSS, JS, and images
-├── /admin                   # Admin-related files
-├── /employee                # Employee-related files
-├── /config                  # Database configuration
-├── /database                # SQL script for database setup
-├── /includes                # Common PHP files
-├── index.php                # Homepage and login page
-└── README.md                # This readme file
+-/employee-appraisal-system
+-│
+-├── /assets                  # Contains CSS, JS, and images
+-├── /admin                   # Admin-related files
+-├── /employee                # Employee-related files
+-├── /config                  # Database configuration
+-├── /database                # SQL script for database setup
+-├── /includes                # Common PHP files
+-├── index.php                # Homepage and login page
+-└── README.md                # This readme file
 
 
 ## Contributing
