@@ -2,6 +2,13 @@
 
 The **Employee Appraisal Management System** is a simple and effective web-based tool designed to help companies evaluate employee performance based on their task accomplishments. This system has two types of users: **Admin** and **Employee**.
 
+## Screenshot of the Project
+
+### Login Page
+
+![Screenshot 2023-05-06 090502](https://github.com/user-attachments/assets/ef867592-f7d9-43ab-87b7-86fafb408e18)
+
+
 ## Features
 
 ### Admin Side:
@@ -111,3 +118,4 @@ We have some exciting features planned for the future. Here’s a list of improv
    5. **Task prioritization**: Add a feature where tasks can be prioritized by admins.
 
 Feel free to suggest any additional features or improvements by opening an issue or a pull request.
+
