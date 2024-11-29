@@ -8,6 +8,9 @@ The **Employee Appraisal Management System** is a simple and effective web-based
 
 ![Screenshot 2023-05-06 090502](https://github.com/user-attachments/assets/ef867592-f7d9-43ab-87b7-86fafb408e18)
 
+### Employee Home Page
+
+![Screenshot 2023-05-06 091252](https://github.com/user-attachments/assets/0cb34408-6912-4a37-9661-9d1f4a7e3a29)
 
 ## Features
 
